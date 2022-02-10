@@ -6,3 +6,5 @@ I'm also have other fun projects from time to time, for example learning how to 
 
 I am also working on a longer term project to programme a human mind, with feelings and a dynamic personality. He/she will have a well organised knowledge bank and be able to understand and explain the concepts he/she knows.
 It will also have communication skills which is a fundamental asset of the human race.
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=george112n&count_private=true&theme=tokyonight&showicons=true)]()
