@@ -1,6 +1,6 @@
 1st Year Physics Bsc Undergraduate at University of Warwick.
 
-I code minecraft plugins and mods for Build the Earth UK, and Build the Earth itself.
+I code minecraft plugins and mods for Build the Earth UK and for Build the Earth itself.
 
 I also have other fun projects from time to time, for example learning how to read pixels of a png image and metadata in java and using this to determine what time was displayed on a phone screenshot taken.
 
