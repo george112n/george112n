@@ -1,4 +1,4 @@
-3rd Year Physics Bsc Undergraduate at University of Warwick.
+3rd Year Physics BSc Undergraduate at the University of Warwick.
 
 I code minecraft plugins and mods for Build the Earth UK and for Build the Earth itself.
 
